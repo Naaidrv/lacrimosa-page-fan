@@ -4,6 +4,7 @@
 
         // 1️⃣ Playlists por álbum
         const albumPlaylists = {
+            
             lament: [
                 { id: 1, name: "Lament", artist: "Lacrimosa", album: "Lament", duration: "9:32", durationSeconds: 572, artwork: "/img/lament.jpg", audioUrl: "/songs/Lament - Lacrimosa.mp3" },
                 { id: 2, name: "Ein Sturm zieht auf", artist: "Lacrimosa", album: "Lament", duration: "7:30", durationSeconds: 450, artwork: "/img/lament.jpg", audioUrl: "/songs/Ein Sturm zieht auf - Lacrimosa.mp3" },
