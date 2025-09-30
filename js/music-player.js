@@ -18,7 +18,7 @@
                 { id: 10, name: "Memoria", artist: "Lacrimosa", album: "Lament", duration: "7:03", durationSeconds: 423, artwork: "/img/lament.jpg", audioUrl: "/songs/Memoria - Lacrimosa.mp3" }
             ],
             leidenschaft: [
-                { id: 1, name: "Liebe über Leben", artist: "Lacrimosa", album: "Leidenschaft", duration: "6:12", durationSeconds: 415, artwork: "/img/leidenschaft.jpeg", audioUrl: "/songs/Leidenschaft/Liebe_über Leben.mp3" },
+                { id: 1, name: "Liebe über Leben", artist: "Lacrimosa", album: "Leidenschaft", duration: "6:12", durationSeconds: 415, artwork: "/img/leidenschaft.jpeg", audioUrl: "/songs/Leidenschaft/Liebe uuber Leben.mp3" },
                 { id: 2, name: "Führ mich nochmal in den Sturm", artist: "Lacrimosa", album: "Leidenschaft", duration: "6:00", durationSeconds: 344, artwork: "/img/leidenschaft.jpeg", audioUrl: "/songs/Leidenschaft/Führ mich nochmal in den Sturm.mp3" },
                 { id: 3, name: "Kulturasche", artist: "Lacrimosa", album: "Leidenschaft", duration: "4:22", durationSeconds: 344, artwork: "/img/leidenschaft.jpeg", audioUrl: "/songs/Leidenschaft/Kulturasche.mp3" },
                 { id: 4, name: "The Daughter Of Coldness", artist: "Lacrimosa", album: "Leidenschaft", duration: "4:32", durationSeconds: 344, artwork: "/img/leidenschaft.jpeg", audioUrl: "/songs/Leidenschaft/The Daughter Of Coldness.mp3" },
