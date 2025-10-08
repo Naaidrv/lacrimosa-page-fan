@@ -5,6 +5,8 @@
         // 1️⃣ Playlists por álbum
         const albumPlaylists = {
 
+
+                // ---- Lament ----
             lament: [
                 { id: 1, name: "Lament", artist: "Lacrimosa", album: "Lament", duration: "9:32", durationSeconds: 572, artwork: "/img/lament.jpg", audioUrl: "/songs/Lament - Lacrimosa.mp3" },
                 { id: 2, name: "Ein Sturm zieht auf", artist: "Lacrimosa", album: "Lament", duration: "7:30", durationSeconds: 450, artwork: "/img/lament.jpg", audioUrl: "/songs/Ein Sturm zieht auf - Lacrimosa.mp3" },
@@ -17,6 +19,8 @@
                 { id: 9, name: "In einem anderen Leben", artist: "Lacrimosa", album: "Lament", duration: "5:34", durationSeconds: 334, artwork: "/img/lament.jpg", audioUrl: "/songs/In einem anderen Leben - Lacrimosa.mp3" },
                 { id: 10, name: "Memoria", artist: "Lacrimosa", album: "Lament", duration: "7:03", durationSeconds: 423, artwork: "/img/lament.jpg", audioUrl: "/songs/Memoria - Lacrimosa.mp3" }
             ],
+
+                // ---- Leidenschaft ----
             leidenschaft: [
                 { id: 1, name: "Liebe über Leben", artist: "Lacrimosa", album: "Leidenschaft", duration: "6:12", durationSeconds: 415, artwork: "/img/leidenschaft.jpeg", audioUrl: "/songs/Leidenschaft/Liebe uber Leben.mp3" },
                 { id: 2, name: "Führ mich nochmal in den Sturm", artist: "Lacrimosa", album: "Leidenschaft", duration: "6:00", durationSeconds: 344, artwork: "/img/leidenschaft.jpeg", audioUrl: "/songs/Leidenschaft/Fuhr mich nochmal in den Sturm.mp3" },
@@ -29,6 +33,8 @@
                 { id: 9, name: "Die Liebenden", artist: "Lacrimosa", album: "Leidenschaft", duration: "4:12", durationSeconds: 344, artwork: "/img/leidenschaft.jpeg", audioUrl: "/songs/Leidenschaft/Die Liebenden.mp3" },
                 { id: 10, name: "Exodus", artist: "Lacrimosa", album: "Leidenschaft", duration: "8:24", durationSeconds: 344, artwork: "/img/leidenschaft.jpeg", audioUrl: "/songs/Leidenschaft/Exodus.mp3" },
             ],
+
+                // ---- Testimonium ----
             testimonium: [
                 { id: 1, name: "Wenn unsere Helden sterben", artist: "Lacrimosa", album: "Testimonium", duration: "5:46", durationSeconds: 415, artwork: "/img/testimonium.jpeg", audioUrl: "/songs/Testimonium/Wenn unsere Helden sterben.mp3" },
                 { id: 2, name: "Nach dem Sturm", artist: "Lacrimosa", album: "Testimonium", duration: "7:06", durationSeconds: 415, artwork: "/img/testimonium.jpeg", audioUrl: "/songs/Testimonium/Nach Dem Sturm.mp3" },
@@ -41,6 +47,8 @@
                 { id: 9, name: "Der leise Tod", artist: "Lacrimosa", album: "Testimonium", duration: "5:17", durationSeconds: 415, artwork: "/img/testimonium.jpeg", audioUrl: "/songs/Testimonium/Der leise Tod.mp3" },
                 { id: 10, name: "Testimonium", artist: "Lacrimosa", album: "Testimonium", duration: "10:03", durationSeconds: 415, artwork: "/img/testimonium.jpeg", audioUrl: "/songs/Testimonium/Testimonium.mp3" },
             ],
+
+                // ---- Hoffnung ----
             hoffnung: [
                 { id: 1, name: "Mondfeuer", artist: "Lacrimosa", album: "Hoffnung", duration: "15:15", durationSeconds: 915, artwork: "/img/hoffnung.jpeg", audioUrl: "/songs/Hoffnung/Mondfeuer.mp3" },
                 { id: 2, name: "Kaleidoskop", artist: "Lacrimosa", album: "Hoffnung", duration: "6:15", durationSeconds: 675, artwork: "/img/hoffnung.jpeg", audioUrl: "/songs/Hoffnung/Kaleidoskop.mp3" },
@@ -54,6 +62,8 @@
                 { id: 10, name: "Keine Schatten mehr", artist: "Lacrimosa", album: "Hoffnung", duration: "2:28", durationSeconds: 148, artwork: "/img/hoffnung.jpeg", audioUrl: "/songs/Hoffnung/Keine Schatten mehr.mp3" },
 
             ],
+
+                // ---- Revolution ----
             revolution: [
                 { id: 1, name: "Irgendein Arsch Ist Immer Unterwegs", artist: "Lacrimosa", album: "Revolution", duration: "5:03", durationSeconds: 303, artwork: "/img/revolution.jpg", audioUrl: "/songs/Revolution/Irgendein Arsch Ist Immer Unterwegs.mp3" },
                 { id: 2, name: "If the world stood still a day", artist: "Lacrimosa", album: "Revolution", duration: "3:37", durationSeconds: 210, artwork: "/img/revolution.jpg", audioUrl: "/songs/Revolution/If the world stood still a day.mp3" },
@@ -66,6 +76,8 @@
                 { id: 9, name: "Rote Sinfonie", artist: "Lacrimosa", album: "Revolution", duration: "11:06", durationSeconds: 666, artwork: "/img/revolution.jpg", audioUrl: "/songs/Revolution/Rote Sinfonie.mp3" },
                 { id: 10, name: "Revolution", artist: "Lacrimosa", album: "Revolution", duration: "5:24", durationSeconds: 324, artwork: "/img/revolution.jpg", audioUrl: "/songs/Revolution/Revolution.mp3" },
             ],
+
+                // ---- Sehnsucht ----
             sehnsucht: [
                 { id: 1, name: "Die Sehnsucht in mir", artist: "Lacrimosa", album: "Sehnsucht", duration: "8:07", durationSeconds: 488, artwork: "/img/Sehnsucht.jpg", audioUrl: "/songs/Sehnsucht/Die Sehnsucht in mir.mp3" },
                 { id: 2, name: "Mandira Nabula", artist: "Lacrimosa", album: "Sehnsucht", duration: "5:17", durationSeconds: 317, artwork: "/img/Sehnsucht.jpg", audioUrl: "/songs/Sehnsucht/Mandira Nabula.mp3" },
@@ -78,6 +90,8 @@
                 { id: 9, name: "Der tote Winkel", artist: "Lacrimosa", album: "Sehnsucht", duration: "5:24", durationSeconds: 324, artwork: "/img/Sehnsucht.jpg", audioUrl: "/songs/Sehnsucht/Der tote Winkel.mp3" },
                 { id: 10, name: "Koma", artist: "Lacrimosa", album: "Sehnsucht", duration: "7:47", durationSeconds: 467, artwork: "/img/Sehnsucht.jpg", audioUrl: "/songs/Sehnsucht/Koma.mp3" },
             ],
+
+                // ---- Lichtgestalt ----
             lichtgestalt: [
                 { id: 1, name: "Sapphire", artist: "Lacrimosa", album: "Lichtgestalt", duration: "11:15", durationSeconds: 675, artwork: "/img/Lichtgestalt.jpeg", audioUrl: "/songs/Lichtgestalt/Sapphire.mp3" },
                 { id: 2, name: "Kelch der Liebe", artist: "Lacrimosa", album: "Lichtgestalt", duration: "5:17", durationSeconds: 365, artwork: "/img/Lichtgestalt.jpeg", audioUrl: "/songs/Lichtgestalt/Kelch der Liebe.mp3" },
@@ -87,6 +101,18 @@
                 { id: 6, name: "The Party Is Over", artist: "Lacrimosa", album: "Lichtgestalt", duration: "5:29", durationSeconds: 329, artwork: "/img/Lichtgestalt.jpeg", audioUrl: "/songs/Lichtgestalt/The Party Is Over.mp3" },
                 { id: 7, name: "Letzte Ausfahrt Leben", artist: "Lacrimosa", album: "Lichtgestalt", duration: "7:29", durationSeconds: 344, artwork: "/img/Lichtgestalt.jpeg", audioUrl: "/songs/Lichtgestalt/Letzte Ausfahrt Leben.mp3" },                
                 { id: 8, name: "Hohelied der Liebe", artist: "Lacrimosa", album: "Lichtgestalt", duration: "3:37", durationSeconds: 870, artwork: "/img/Lichtgestalt.jpeg", audioUrl: "/songs/Lichtgestalt/Hohelied der Liebe.mp3" },
+            ],
+
+                // ---- ECHOS ----
+            echos: [
+                { id: 1, name: "Kyrie", artist: "Lacrimosa", album: "Echos", duration: "12:00", durationSeconds: 420, artwork: "/img/echos.jpeg", audioUrl: "/songs/Echos/Kyrie - Lacrimosa.mp3" },
+                { id: 2, name: "Durch Nacht und Flut", artist: "Lacrimosa", album: "Echos", duration: "7:17", durationSeconds: 437, artwork: "/img/echos.jpeg", audioUrl: "/songs/Echos/Durch Nacht und Flut - Lacrimosa.mp3" },
+                { id: 3, name: "Sacrifice", artist: "Lacrimosa", album: "Echos", duration: "5:14", durationSeconds: 314, artwork: "/img/echos.jpeg", audioUrl: "/songs/Echos/Sacrifice - Lacrimosa.mp3" },
+                { id: 4, name: "Apart", artist: "Lacrimosa", album: "Echos", duration: "5:58", durationSeconds: 358, artwork: "/img/echos.jpeg", audioUrl: "/songs/Echos/Apart - Lacrimosa.mp3" },
+                { id: 5, name: "Ein Hauch von Menschlichkeit", artist: "Lacrimosa", album: "Echos", duration: "5:07", durationSeconds: 198, artwork: "/img/echos.jpeg", audioUrl: "/songs/Echos/Ein Hauch von Menschlichkeit - Lacrimosa.mp3" },
+                { id: 6, name: "Eine Nacht in Ewigkeit", artist: "Lacrimosa", album: "Echos", duration: "5:57", durationSeconds: 833, artwork: "/img/echos.jpeg", audioUrl: "/songs/Echos/Eine Nacht in Ewigkeit - Lacrimosa.mp3" },
+                { id: 7, name: "Malina", artist: "Lacrimosa", album: "Echos", duration: "4:51", durationSeconds: 833, artwork: "/img/echos.jpeg", audioUrl: "/songs/Echos/Malina - Lacrimosa.mp3" },
+                { id: 8, name: "Die Schreie sind verstummt", artist: "Lacrimosa", album: "Echos", duration: "12:43", durationSeconds: 833, artwork: "/img/echos.jpeg", audioUrl: "/songs/Echos/Die Schreie sind verstummt - Lacrimosa.mp3" }
             ],
         };
 
