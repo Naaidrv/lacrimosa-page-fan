@@ -128,23 +128,25 @@
 
             // ---- ELODIA ----
             elodia: [
-                { id: 1, name: "Am Ende stehen wir zwei", artist: "Lacrimosa", album: "Elodia", duration: "5:39", durationSeconds: 339, artwork: "/img/elodia.jpg", audioUrl: "/songs/Am Ende stehen wir zwei.mp3" },
-                { id: 2, name: "Alleine zu zweit", artist: "Lacrimosa", album: "Elodia", duration: "4:22", durationSeconds: 262, artwork: "/img/elodia.jpg", audioUrl: "/songs/Alleine zu zweit.mp3" },
-                { id: 3, name: "Halt mich", artist: "Lacrimosa", album: "Elodia", duration: "5:45", durationSeconds: 345, artwork: "/img/elodia.jpg", audioUrl: "/songs/Halt mich.mp3" },
-                { id: 4, name: "Die Strasse der Zeit", artist: "Lacrimosa", album: "Elodia", duration: "5:20", durationSeconds: 320, artwork: "/img/elodia.jpg", audioUrl: "/songs/Die Strasse der Zeit.mp3" },
-                { id: 5, name: "Der Morgen danach", artist: "Lacrimosa", album: "Elodia", duration: "4:28", durationSeconds: 268, artwork: "/img/elodia.jpg", audioUrl: "/songs/Der Morgen danach.mp3" },
-                { id: 6, name: "Sanctus", artist: "Lacrimosa", album: "Elodia", duration: "12:12", durationSeconds: 732, artwork: "/img/elodia.jpg", audioUrl: "/songs/Sanctus.mp3" }
+                { id: 1, name: "Am Ende stehen wir zwei", artist: "Lacrimosa", album: "Elodia", duration: "5:39", durationSeconds: 339, artwork: "/img/elodia.jpeg", audioUrl: "/songs/Elodia/Am Ende stehen wir zwei.mp3" },
+                { id: 2, name: "Alleine zu zweit", artist: "Lacrimosa", album: "Elodia", duration: "4:22", durationSeconds: 262, artwork: "/img/elodia.jpeg", audioUrl: "/songs/Elodia/Alleine zu zweit.mp3" },
+                { id: 3, name: "Halt mich", artist: "Lacrimosa", album: "Elodia", duration: "5:45", durationSeconds: 345, artwork: "/img/elodia.jpeg", audioUrl: "/songs/Elodia/Halt mich.mp3" },
+                { id: 4, name: "The turning point", artist: "Lacrimosa", album: "Elodia", duration: "5:20", durationSeconds: 320, artwork: "/img/elodia.jpeg", audioUrl: "/songs/Elodia/The turning point.mp3" },
+                { id: 5, name: "Ich verlasse heut' Dein Herz", artist: "Lacrimosa", album: "Elodia", duration: "4:28", durationSeconds: 268, artwork: "/img/elodia.jpeg", audioUrl: "/songs/Elodia/Ich verlasse heut' Dein Herz.mp3" },
+                { id: 6, name: "Dich zu töten fiel mir schwer", artist: "Lacrimosa", album: "Elodia", duration: "12:12", durationSeconds: 732, artwork: "/img/elodia.jpeg", audioUrl: "/songs/Elodia/Dich zu töten fiel mir schwer.mp3" },
+                { id: 6, name: "Sanctus", artist: "Lacrimosa", album: "Elodia", duration: "12:12", durationSeconds: 732, artwork: "/img/elodia.jpeg", audioUrl: "/songs/Elodia/Sanctus.mp3" },
+                { id: 6, name: "Am Ende stehen wir zwei", artist: "Lacrimosa", album: "Elodia", duration: "12:12", durationSeconds: 732, artwork: "/img/elodia.jpeg", audioUrl: "/songs/Elodia/Am Ende stehen wir zwei.mp3" }
             ],
 
             // ---- STILLE ----
             stille: [
-                { id: 1, name: "Stolzes Herz", artist: "Lacrimosa", album: "Stille", duration: "6:24", durationSeconds: 384, artwork: "/img/stille.jpg", audioUrl: "/songs/Stolzes Herz.mp3" },
-                { id: 2, name: "Küsse mich wach", artist: "Lacrimosa", album: "Stille", duration: "3:55", durationSeconds: 235, artwork: "/img/stille.jpg", audioUrl: "/songs/Küsse mich wach.mp3" },
-                { id: 3, name: "Not every pain hurts", artist: "Lacrimosa", album: "Stille", duration: "5:11", durationSeconds: 311, artwork: "/img/stille.jpg", audioUrl: "/songs/Not every pain hurts.mp3" },
-                { id: 4, name: "Ich verlasse heut' dein Herz", artist: "Lacrimosa", album: "Stille", duration: "5:50", durationSeconds: 350, artwork: "/img/stille.jpg", audioUrl: "/songs/Ich verlasse heut dein Herz.mp3" },
-                { id: 5, name: "Die Strasse der Zeit", artist: "Lacrimosa", album: "Stille", duration: "4:50", durationSeconds: 290, artwork: "/img/stille.jpg", audioUrl: "/songs/Die Strasse der Zeit.mp3" },
-                { id: 6, name: "My last goodbye", artist: "Lacrimosa", album: "Stille", duration: "6:32", durationSeconds: 392, artwork: "/img/stille.jpg", audioUrl: "/songs/My last goodbye.mp3" },
-                { id: 7, name: "Stille zu vermieten", artist: "Lacrimosa", album: "Stille", duration: "4:42", durationSeconds: 282, artwork: "/img/stille.jpg", audioUrl: "/songs/Stille zu vermieten.mp3" }
+                { id: 1, name: "Stolzes Herz", artist: "Lacrimosa", album: "Stille", duration: "6:24", durationSeconds: 384, artwork: "/img/stille.jpg", audioUrl: "/songs/Stille/Stolzes Herz.mp3" },
+                { id: 2, name: "Küsse mich wach", artist: "Lacrimosa", album: "Stille", duration: "3:55", durationSeconds: 235, artwork: "/img/stille.jpg", audioUrl: "/songs/Stille/Küsse mich wach.mp3" },
+                { id: 3, name: "Not every pain hurts", artist: "Lacrimosa", album: "Stille", duration: "5:11", durationSeconds: 311, artwork: "/img/stille.jpg", audioUrl: "/songs/Stille/Not every pain hurts.mp3" },
+                { id: 4, name: "Ich verlasse heut' dein Herz", artist: "Lacrimosa", album: "Stille", duration: "5:50", durationSeconds: 350, artwork: "/img/stille.jpg", audioUrl: "/songs/Stille/Ich verlasse heut dein Herz.mp3" },
+                { id: 5, name: "Die Strasse der Zeit", artist: "Lacrimosa", album: "Stille", duration: "4:50", durationSeconds: 290, artwork: "/img/stille.jpg", audioUrl: "/songs/Stille/Die Strasse der Zeit.mp3" },
+                { id: 6, name: "My last goodbye", artist: "Lacrimosa", album: "Stille", duration: "6:32", durationSeconds: 392, artwork: "/img/stille.jpg", audioUrl: "/songs/Stille/My last goodbye.mp3" },
+                { id: 7, name: "Stille zu vermieten", artist: "Lacrimosa", album: "Stille", duration: "4:42", durationSeconds: 282, artwork: "/img/stille.jpg", audioUrl: "/songs/Stille/Stille zu vermieten.mp3" }
             ],
 
             // ---- INFERNO ----
@@ -160,19 +162,19 @@
             
             // ---- SATURA ----
             satura: [
-                { id: 1, name: "Ich bin der brennende Komet", artist: "Lacrimosa", album: "Satura", duration: "7:04", durationSeconds: 424, artwork: "/img/satura.jpg", audioUrl: "/songs/Ich bin der brennende Komet.mp3" },
-                { id: 2, name: "Satura", artist: "Lacrimosa", album: "Satura", duration: "6:32", durationSeconds: 392, artwork: "/img/satura.jpg", audioUrl: "/songs/Satura.mp3" },
-                { id: 3, name: "Verloren", artist: "Lacrimosa", album: "Satura", duration: "5:21", durationSeconds: 321, artwork: "/img/satura.jpg", audioUrl: "/songs/Verloren.mp3" },
-                { id: 4, name: "Abschied", artist: "Lacrimosa", album: "Satura", duration: "8:11", durationSeconds: 491, artwork: "/img/satura.jpg", audioUrl: "/songs/Abschied.mp3" }
+                { id: 1, name: "Ich bin der brennende Komet", artist: "Lacrimosa", album: "Satura", duration: "7:04", durationSeconds: 424, artwork: "/img/satura.jpg", audioUrl: "/songs/Satura/Ich bin der brennende Komet.mp3" },
+                { id: 2, name: "Satura", artist: "Lacrimosa", album: "Satura", duration: "6:32", durationSeconds: 392, artwork: "/img/satura.jpg", audioUrl: "/songs/Satura/Satura.mp3" },
+                { id: 3, name: "Verloren", artist: "Lacrimosa", album: "Satura", duration: "5:21", durationSeconds: 321, artwork: "/img/satura.jpg", audioUrl: "/songs/Satura/Verloren.mp3" },
+                { id: 4, name: "Abschied", artist: "Lacrimosa", album: "Satura", duration: "8:11", durationSeconds: 491, artwork: "/img/satura.jpg", audioUrl: "/songs/Satura/Abschied.mp3" }
             ],
 
             // ---- EINSAMKEIT ----
             einsamkeit: [
-                { id: 1, name: "Tränen der Sehnsucht", artist: "Lacrimosa", album: "Einsamkeit", duration: "6:41", durationSeconds: 401, artwork: "/img/einsamkeit.jpg", audioUrl: "/songs/Tränen der Sehnsucht.mp3" },
-                { id: 2, name: "Requiem", artist: "Lacrimosa", album: "Einsamkeit", duration: "4:20", durationSeconds: 260, artwork: "/img/einsamkeit.jpg", audioUrl: "/songs/Requiem.mp3" },
-                { id: 3, name: "Einsamkeit", artist: "Lacrimosa", album: "Einsamkeit", duration: "7:08", durationSeconds: 428, artwork: "/img/einsamkeit.jpg", audioUrl: "/songs/Einsamkeit.mp3" },
-                { id: 4, name: "Bresso", artist: "Lacrimosa", album: "Einsamkeit", duration: "4:15", durationSeconds: 255, artwork: "/img/einsamkeit.jpg", audioUrl: "/songs/Bresso.mp3" },
-                {id: 5, name: "Der Ketzer", artist: "Lacrimosa", album: "Einsamkeit", duration: "6:04", durationSeconds: 364, artwork: "/img/einsamkeit.jpg", audioUrl: "/songs/Der Ketzer.mp3" }
+                { id: 1, name: "Tränen der Sehnsucht", artist: "Lacrimosa", album: "Einsamkeit", duration: "6:41", durationSeconds: 401, artwork: "/img/einsamkeit.jpg", audioUrl: "/songs/einsamkeit/Tränen der Sehnsucht.mp3" },
+                { id: 2, name: "Requiem", artist: "Lacrimosa", album: "Einsamkeit", duration: "4:20", durationSeconds: 260, artwork: "/img/einsamkeit.jpg", audioUrl: "/songs/einsamkeit/Requiem.mp3" },
+                { id: 3, name: "Einsamkeit", artist: "Lacrimosa", album: "Einsamkeit", duration: "7:08", durationSeconds: 428, artwork: "/img/einsamkeit.jpg", audioUrl: "/songs/einsamkeit/Einsamkeit.mp3" },
+                { id: 4, name: "Bresso", artist: "Lacrimosa", album: "Einsamkeit", duration: "4:15", durationSeconds: 255, artwork: "/img/einsamkeit.jpg", audioUrl: "/songs/einsamkeit/Bresso.mp3" },
+                {id: 5, name: "Der Ketzer", artist: "Lacrimosa", album: "Einsamkeit", duration: "6:04", durationSeconds: 364, artwork: "/img/einsamkeit.jpg", audioUrl: "/songs/einsamkeit/Der Ketzer.mp3" }
             ],
 
             // ---- ANGST ----
