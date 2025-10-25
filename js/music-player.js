@@ -134,19 +134,20 @@
                 { id: 4, name: "The turning point", artist: "Lacrimosa", album: "Elodia", duration: "5:20", durationSeconds: 320, artwork: "/img/elodia.jpeg", audioUrl: "/songs/Elodia/The turning point.mp3" },
                 { id: 5, name: "Ich verlasse heut' Dein Herz", artist: "Lacrimosa", album: "Elodia", duration: "4:28", durationSeconds: 268, artwork: "/img/elodia.jpeg", audioUrl: "/songs/Elodia/Ich verlasse heut' Dein Herz.mp3" },
                 { id: 6, name: "Dich zu töten fiel mir schwer", artist: "Lacrimosa", album: "Elodia", duration: "12:12", durationSeconds: 732, artwork: "/img/elodia.jpeg", audioUrl: "/songs/Elodia/Dich zu töten fiel mir schwer.mp3" },
-                { id: 6, name: "Sanctus", artist: "Lacrimosa", album: "Elodia", duration: "12:12", durationSeconds: 732, artwork: "/img/elodia.jpeg", audioUrl: "/songs/Elodia/Sanctus.mp3" },
-                { id: 6, name: "Am Ende stehen wir zwei", artist: "Lacrimosa", album: "Elodia", duration: "12:12", durationSeconds: 732, artwork: "/img/elodia.jpeg", audioUrl: "/songs/Elodia/Am Ende stehen wir zwei.mp3" }
+                { id: 7, name: "Sanctus", artist: "Lacrimosa", album: "Elodia", duration: "12:12", durationSeconds: 732, artwork: "/img/elodia.jpeg", audioUrl: "/songs/Elodia/Sanctus.mp3" },
+                { id: 8, name: "Am Ende stehen wir zwei", artist: "Lacrimosa", album: "Elodia", duration: "12:12", durationSeconds: 732, artwork: "/img/elodia.jpeg", audioUrl: "/songs/Elodia/Am Ende stehen wir zwei.mp3" }
             ],
 
             // ---- STILLE ----
             stille: [
-                { id: 1, name: "Stolzes Herz", artist: "Lacrimosa", album: "Stille", duration: "6:24", durationSeconds: 384, artwork: "/img/stille.jpg", audioUrl: "/songs/Stille/Stolzes Herz.mp3" },
-                { id: 2, name: "Küsse mich wach", artist: "Lacrimosa", album: "Stille", duration: "3:55", durationSeconds: 235, artwork: "/img/stille.jpg", audioUrl: "/songs/Stille/Küsse mich wach.mp3" },
-                { id: 3, name: "Not every pain hurts", artist: "Lacrimosa", album: "Stille", duration: "5:11", durationSeconds: 311, artwork: "/img/stille.jpg", audioUrl: "/songs/Stille/Not every pain hurts.mp3" },
-                { id: 4, name: "Ich verlasse heut' dein Herz", artist: "Lacrimosa", album: "Stille", duration: "5:50", durationSeconds: 350, artwork: "/img/stille.jpg", audioUrl: "/songs/Stille/Ich verlasse heut dein Herz.mp3" },
-                { id: 5, name: "Die Strasse der Zeit", artist: "Lacrimosa", album: "Stille", duration: "4:50", durationSeconds: 290, artwork: "/img/stille.jpg", audioUrl: "/songs/Stille/Die Strasse der Zeit.mp3" },
-                { id: 6, name: "My last goodbye", artist: "Lacrimosa", album: "Stille", duration: "6:32", durationSeconds: 392, artwork: "/img/stille.jpg", audioUrl: "/songs/Stille/My last goodbye.mp3" },
-                { id: 7, name: "Stille zu vermieten", artist: "Lacrimosa", album: "Stille", duration: "4:42", durationSeconds: 282, artwork: "/img/stille.jpg", audioUrl: "/songs/Stille/Stille zu vermieten.mp3" }
+                { id: 1, name: "Der erste Tag", artist: "Lacrimosa", album: "Stille", duration: "6:24", durationSeconds: 384, artwork: "/img/stille.jpeg", audioUrl: "/songs/Stille/Der erste Tag.mp3" },
+                { id: 2, name: "Not Every Pain Hurts", artist: "Lacrimosa", album: "Stille", duration: "3:55", durationSeconds: 235, artwork: "/img/stille.jpeg", audioUrl: "/songs/Stille/Not Every Pain Hurts.mp3" },
+                { id: 3, name: "Siehst Du mich im Licht", artist: "Lacrimosa", album: "Stille", duration: "5:11", durationSeconds: 311, artwork: "/img/stille.jpeg", audioUrl: "/songs/Stille/Siehst Du mich im Licht.mp3" },
+                { id: 4, name: "Deine Nähe", artist: "Lacrimosa", album: "Stille", duration: "5:50", durationSeconds: 350, artwork: "/img/stille.jpeg", audioUrl: "/songs/Stille/Deine Nähe.mp3" },
+                { id: 5, name: "Stolzes Herz", artist: "Lacrimosa", album: "Stille", duration: "4:50", durationSeconds: 290, artwork: "/img/stille.jpeg", audioUrl: "/songs/Stille/Stolzes Herz.mp3" },
+                { id: 6, name: "Mein zweites Herz", artist: "Lacrimosa", album: "Stille", duration: "6:32", durationSeconds: 392, artwork: "/img/stille.jpeg", audioUrl: "/songs/Stille/Mein zweites Herz.mp3" },
+                { id: 7, name: "Make It End", artist: "Lacrimosa", album: "Stille", duration: "4:42", durationSeconds: 282, artwork: "/img/stille.jpeg", audioUrl: "/songs/Stille/Make It End.mp3" },
+                { id: 8, name: "Die Strasse der Zeit", artist: "Lacrimosa", album: "Stille", duration: "4:42", durationSeconds: 282, artwork: "/img/stille.jpeg", audioUrl: "/songs/Stille/Die Strasse der Zeit.mp3" },
             ],
 
             // ---- INFERNO ----
