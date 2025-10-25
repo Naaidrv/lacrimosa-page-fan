@@ -152,13 +152,13 @@
 
             // ---- INFERNO ----
             inferno: [
-                { id: 1, name: "Versiegelt glanzumströmt", artist: "Lacrimosa", album: "Inferno", duration: "6:20", durationSeconds: 380, artwork: "/img/inferno.jpg", audioUrl: "/songs/Versiegelt glanzumströmt.mp3" },
-                { id: 2, name: "Copycat", artist: "Lacrimosa", album: "Inferno", duration: "4:25", durationSeconds: 265, artwork: "/img/inferno.jpg", audioUrl: "/songs/Copycat.mp3" },
-                { id: 3, name: "Schakal", artist: "Lacrimosa", album: "Inferno", duration: "5:57", durationSeconds: 357, artwork: "/img/inferno.jpg", audioUrl: "/songs/Schakal.mp3" },
-                { id: 4, name: "Vermächtnis der Sonne", artist: "Lacrimosa", album: "Inferno", duration: "6:08", durationSeconds: 368, artwork: "/img/inferno.jpg", audioUrl: "/songs/Vermächtnis der Sonne.mp3" },
-                { id: 5, name: "No blind eyes can see", artist: "Lacrimosa", album: "Inferno", duration: "7:16", durationSeconds: 436, artwork: "/img/inferno.jpg", audioUrl: "/songs/No blind eyes can see.mp3" },
-                { id: 6, name: "Darkness", artist: "Lacrimosa", album: "Inferno", duration: "3:56", durationSeconds: 236, artwork: "/img/inferno.jpg", audioUrl: "/songs/Darkness.mp3" },
-                { id: 7, name: "Der Kelch des Lebens", artist: "Lacrimosa", album: "Inferno", duration: "8:32", durationSeconds: 512, artwork: "/img/inferno.jpg", audioUrl: "/songs/Der Kelch des Lebens.mp3" }
+                { id: 1, name: "Kabinett der Sinne.", artist: "Lacrimosa", album: "Inferno", duration: "6:20", durationSeconds: 380, artwork: "/img/inferno.jpg", audioUrl: "/songs/Inferno/Kabinett der Sinne.mp3" },
+                { id: 2, name: "Versiegelt glanzumströmt", artist: "Lacrimosa", album: "Inferno", duration: "4:25", durationSeconds: 265, artwork: "/img/inferno.jpg", audioUrl: "/songs/Inferno/Versiegelt glanzumströmt.mp3" },
+                { id: 3, name: "No Blind Eyes Can See", artist: "Lacrimosa", album: "Inferno", duration: "5:57", durationSeconds: 357, artwork: "/img/inferno.jpg", audioUrl: "/songs/Inferno/No Blind Eyes Can See.mp3" },
+                { id: 4, name: "Schakal", artist: "Lacrimosa", album: "Inferno", duration: "6:08", durationSeconds: 368, artwork: "/img/inferno.jpg", audioUrl: "/songs/Inferno/Schakal.mp3" },
+                { id: 5, name: "Vermächtnis der Sonne", artist: "Lacrimosa", album: "Inferno", duration: "7:16", durationSeconds: 436, artwork: "/img/inferno.jpg", audioUrl: "/songs/Inferno/Vermächtnis der Sonne.mp3" },
+                { id: 6, name: "Copycat", artist: "Lacrimosa", album: "Inferno", duration: "3:56", durationSeconds: 236, artwork: "/img/inferno.jpg", audioUrl: "/songs/Inferno/Copycat.mp3" },
+                { id: 7, name: "Der Kelch des Lebens", artist: "Lacrimosa", album: "Inferno", duration: "8:32", durationSeconds: 512, artwork: "/img/inferno.jpg", audioUrl: "/songs/Inferno/Der Kelch des Lebens.mp3" }
             ],
             
             // ---- SATURA ----
